@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.a {
+    text-align: center;
+    width: 50vw;
+}
+
+.b {
+    display: flex;
+    padding-left: 20px;
+    justify-content: center;
+}
